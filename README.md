@@ -1,1 +1,1 @@
-# lokaverkefni-kest1
+# Lokaverkefni í KEST1VL
