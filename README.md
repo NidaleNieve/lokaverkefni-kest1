@@ -6,7 +6,7 @@
   sudo mkdir /GÖGN/Sameign
   sudo mkdir /GÖGN/Forritun
   sudo mkdir /GÖGN/Markadsmal
-4. svo gerðum við þesssa skipun til að komast inn í möppurnar og breitum nafninu fyrir hverja möppu
+4. svo gerðum við þesssa skipun til að komast inn í möppurnar og breitum nafninu fyrir hverja möppu: <br>
    sudo chown :allir /GÖGN/Sameign:sudo chmod 2775 /GÖGN/Sameign
   
 
