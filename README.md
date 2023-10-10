@@ -17,7 +17,7 @@
     sudo passwd -l erla<br>
    svo til þess að leifa Áslaugu að hafa aðgang að sudo skipunini notuðum við:<br>
      sudo usermod -aG sudo aslaug<br>
-# Leiðbending fyrir Áslaugu 
+# Leiðbendingar fyrir Áslaugu 
 
 
 
