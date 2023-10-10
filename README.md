@@ -12,6 +12,15 @@
    svo notuðum við þetta comand til að búat til pasword<br>
    ```sudo chmod 2775 /GÖGN/Sameign```<br>
    við breyttum svo nafninu á möppunum fyrir hverja möppu<br>
+5. svo læstum við aðgangnium hjá Erlendur and Erla og til þess notuðum við þessar skipunir:<br>
+    sudo passwd -l erlendur<br>
+    sudo passwd -l erla<br>
+   svo til þess að leifa Áslaugu að hafa aðgang að sudo skipunini notuðum við:<br>
+     sudo usermod -aG sudo aslaug<br>
+# Leiðbending fyrir Áslaugu 
+
+
+
    
   
 
