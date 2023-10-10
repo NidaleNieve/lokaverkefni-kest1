@@ -13,24 +13,24 @@
    ```sudo chmod 2775 /GÖGN/Sameign```<br>
    við breyttum svo nafninu á möppunum fyrir hverja möppu<br>
 5. svo læstum við aðgangnium hjá Erlendur and Erla og til þess notuðum við þessar skipunir:<br>
-    sudo passwd -l erlendur<br>
-    sudo passwd -l erla<br>
+    ``` sudo passwd -l erlendur ```<br>
+     ```sudo passwd -l erla ```<br>
    svo til þess að leifa Áslaugu að hafa aðgang að sudo skipunini notuðum við:<br>
-     sudo usermod -aG sudo aslaug<br>
+      ```sudo usermod -aG sudo aslaug ```<br>
 # Leiðbendingar fyrir Áslaugu 
   þetta er allt sem þú þarft að vita.<br>
   til þess að búa til nýan user notaru þetta comand:<br>
-  sudo useradd -m -s /bin/bash -c "FULL_NAME" -G GROUPS USERNAME<br>
+   ```sudo useradd -m -s /bin/bash -c "FULL_NAME" -G GROUPS USERNAME ```<br>
   til að búa pasword nottaru þetta comand :<br>
-  echo "USERNAME:PASSWORD" | sudo chpasswd<br>
+  ``` echo "USERNAME:PASSWORD" | sudo chpasswd< ```br>
   til þess að læsa og aflæsa aðgang notaru þessi comands:<br>
-  sudo passwd -u USERNAME <br>
-  sudo passwd -l USERNAME<br>
+   ```sudo passwd -u USERNAME ``` <br>
+   ```sudo passwd -l USERNAME ```<br>
   til þess að búa til möppur notaru:<br>
-  sudo mkdir DIRECTORY_PATH<br>
+   ```sudo mkdir DIRECTORY_PATH ```<br>
   til þess að gefa aðganga og búa til password notatur þessi comands:<br>
-    sudo chown :GROUP_NAME DIRECTORY_PATH<br>
-    sudo chmod 2775 DIRECTORY_PATH<br>
+     ```sudo chown :GROUP_NAME DIRECTORY_PATH ```<br>
+     ```sudo chmod 2775 DIRECTORY_PATH ```<br>
 # hver gerði hvað 
   Daníel gerði allt í terminalinu og leit yfir stafstniga villur
   Pétur gerði allt á git hub 
