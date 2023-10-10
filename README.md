@@ -31,9 +31,12 @@
   til þess að gefa aðganga og búa til password notatur þessi comands:<br>
      ```sudo chown :GROUP_NAME DIRECTORY_PATH ```<br>
      ```sudo chmod 2775 DIRECTORY_PATH ```<br>
-# hver gerði hvað 
+# hver gerði hvað
   Daníel gerði allt í terminalinu og leit yfir stafstniga villur
   Pétur gerði allt á git hub 
+
+# Skjáskot:
+ <img width="699" alt="Screenshot 2023-10-10 at 12 02 29" src="https://github.com/NidaleNieve/lokaverkefni-kest1/assets/62642672/f390a589-666a-43e4-a489-d7700e36ed1d">
 
 
 
