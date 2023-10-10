@@ -8,6 +8,10 @@
   sudo mkdir /GÖGN/Markadsmal
 4. svo gerðum við þesssa skipun til að komast inn í möppurnar: <br>
    ```sudo chown :allir /GÖGN/Sameign/``` <br>
-   við breyttum svo nafninu á möppunum fyrir hverja möppu
+   við breyttum svo nafninu á möppunum fyrir hverja möppu<br>
+   svo notuðum við þetta comand til að búat til pasword<br>
+   ```sudo chmod 2775 /GÖGN/Sameign```
+   við breyttum svo nafninu á möppunum fyrir hverja möppu<br>
+   
   
 
