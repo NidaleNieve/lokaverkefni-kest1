@@ -22,7 +22,7 @@
   til þess að búa til nýan user notaru þetta comand:<br>
    ```sudo useradd -m -s /bin/bash -c "FULL_NAME" -G GROUPS USERNAME ```<br>
   til að búa pasword nottaru þetta comand :<br>
-  ``` echo "USERNAME:PASSWORD" | sudo chpasswd< ```br>
+  ``` echo "USERNAME:PASSWORD" | sudo chpasswd ```<br>
   til þess að læsa og aflæsa aðgang notaru þessi comands:<br>
    ```sudo passwd -u USERNAME ``` <br>
    ```sudo passwd -l USERNAME ```<br>
