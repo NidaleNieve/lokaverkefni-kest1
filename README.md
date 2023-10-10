@@ -32,7 +32,8 @@
     sudo chown :GROUP_NAME DIRECTORY_PATH<br>
     sudo chmod 2775 DIRECTORY_PATH<br>
 # hver gerði hvað 
-
+  Daníel gerði allt í terminalinu og leit yfir stafstniga villur
+  Pétur gerði allt á git hub 
 
 
 
