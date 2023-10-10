@@ -36,10 +36,10 @@
   Pétur gerði allt á git hub 
 
 # Skjáskot:
- <img width="699" alt="Screenshot 2023-10-10 at 12 02 29" src="https://github.com/NidaleNieve/lokaverkefni-kest1/assets/62642672/f390a589-666a-43e4-a489-d7700e36ed1d">
-
-
-
+<img width="699" alt="Screenshot 2023-10-10 at 12 02 29" src="https://github.com/NidaleNieve/lokaverkefni-kest1/assets/62642672/f390a589-666a-43e4-a489-d7700e36ed1d">
+<img width="699" alt="Screenshot 2023-10-10 at 12 04 51" src="https://github.com/NidaleNieve/lokaverkefni-kest1/assets/62642672/a01b6232-90a1-42d6-8e2c-c8f3bf80b650">
+<img width="729" alt="Screenshot 2023-10-10 at 11 29 22" src="https://github.com/NidaleNieve/lokaverkefni-kest1/assets/62642672/266a3541-9ad1-4167-b293-4c1471d4848c">
+<img width="729" alt="Screenshot 2023-10-10 at 11 29 06" src="https://github.com/NidaleNieve/lokaverkefni-kest1/assets/62642672/457df7f9-955b-4e37-9d64-38dc46dda525">
 
 
 
