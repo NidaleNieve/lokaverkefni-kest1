@@ -10,7 +10,7 @@
    ```sudo chown :allir /GÖGN/Sameign/``` <br>
    við breyttum svo nafninu á möppunum fyrir hverja möppu<br>
    svo notuðum við þetta comand til að búat til pasword<br>
-   ```sudo chmod 2775 /GÖGN/Sameign```
+   ```sudo chmod 2775 /GÖGN/Sameign```<br>
    við breyttum svo nafninu á möppunum fyrir hverja möppu<br>
    
   
