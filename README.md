@@ -31,7 +31,7 @@
   til þess að gefa aðganga og búa til password notatur þessi comands:<br>
     sudo chown :GROUP_NAME DIRECTORY_PATH<br>
     sudo chmod 2775 DIRECTORY_PATH<br>
-#hver gerði hvað 
+# hver gerði hvað 
 
 
 
