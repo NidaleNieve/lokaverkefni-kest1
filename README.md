@@ -9,10 +9,8 @@
 4. svo gerðum við það að það þarf pasword til að komast inn í möppurnar
    sudo chown :allir /GÖGN/Sameign
    sudo chmod 2775 /GÖGN/Sameign
-  
   sudo chown :forritun /GÖGN/Forritun
   sudo chmod 2775 /GÖGN/Forritun
-  
   sudo chown :markadsmal /GÖGN/Markadsmal
   sudo chmod 2775 /GÖGN/Markadsmal
 
