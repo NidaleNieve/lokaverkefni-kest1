@@ -6,11 +6,7 @@
   sudo mkdir /GÖGN/Sameign
   sudo mkdir /GÖGN/Forritun
   sudo mkdir /GÖGN/Markadsmal
-4. svo gerðum við það að það þarf pasword til að komast inn í möppurnar
-   sudo chown :allir /GÖGN/Sameign
-   sudo chmod 2775 /GÖGN/Sameign
-  sudo chown :forritun /GÖGN/Forritun
-  sudo chmod 2775 /GÖGN/Forritun
-  sudo chown :markadsmal /GÖGN/Markadsmal
-  sudo chmod 2775 /GÖGN/Markadsmal
+4. svo gerðum við þesssa skipun til að komast inn í möppurnar og breitum nafninu fyrir hverja möppu
+   sudo chown :allir /GÖGN/Sameign:sudo chmod 2775 /GÖGN/Sameign
+  
 
